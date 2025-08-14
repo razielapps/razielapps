@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Python Backend Engineer | Cybersecurity Specialist | Sustainable Frontend Developer
+# 👋 Hi, I'm Conscience Ekhomwandolor — Python Backend Engineer | Cybersecurity Specialist | Frontend Developer
 
 Welcome to my GitHub!  
 I’m a **Python Backend Engineer** with **sustainable frontend development experience** and a strong foundation in **cybersecurity**.  
@@ -62,9 +62,9 @@ My workflow ensures:
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** [Your LinkedIn URL]
-- **Portfolio / Website:** [Your Website URL]
-- **Email:** [Your Email]
+- **LinkedIn:** [https://www.linkedin.com/in/avtconscience/]
+- **Portfolio / Website:** [https://avtconscience.fwh.is/]
+- **Email:** [avtxconscience@gmail.com]
 
 💬 Open to collaborations, freelance opportunities, and impactful security or development projects.
 
