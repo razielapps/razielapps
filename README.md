@@ -14,6 +14,7 @@ I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounr
 - Python automation solutions
 - Custom script development
 - Bug fixing and optimisation
+- & More
 
 ### **Cybersecurity**
 - Website vulnerability scanning (OWASP ZAP, Nikto, Nessus, etc.)
@@ -24,6 +25,7 @@ I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounr
 - Basic malware detection & removal
 - Security awareness training
 - Personal cybersecurity checkups
+- & More
 
 ### **Data & Automation**
 - Data analysis & visualisation with Python
@@ -31,11 +33,13 @@ I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounr
 - Automated report generation
 - Telegram & Discord bot development
 - Python security scripting
+- & More
 
 ### **Frontend Development**
 - Sustainable, maintainable, and accessible UI
 - Performance-focused frontend implementation
 - Seamless integration with backend services
+- & More
 
 ---
 
@@ -51,8 +55,8 @@ I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounr
 - **Portfolio / Website:** [https://avtconscience.fwh.is/]
 - **Email:** [avtxconscience@gmail.com]
 
-💬 Open to collaborations and job opportunities
+💬 If you want my collaboration, maybe you have an idea you want to bring to life, need to solve a problem or secure your applications? Feel free to reach out!
 
 ---
 
-⭐ *If you like my work, consider following me here on GitHub to stay updated on my latest projects!*
+⭐ *If you like my work, consider following me here on GitHub and staring the projects you find most interesting. Stay updated on my latest projects!*
