@@ -1,16 +1,14 @@
-# 👋 Hi, I'm Conscience Ekhomwandolor — Python Backend Engineer | Cybersecurity Specialist | Frontend Developer
+# 👋 Hi, I'm Conscience Ekhomwandolor
 
-Welcome to my GitHub!  
-I’m a **Python Backend Engineer** with **sustainable frontend development experience** and a strong foundation in **cybersecurity**.  
-I build **robust, scalable, and secure** solutions — from APIs to automation scripts — and ensure they are **hardened against modern threats**.
+## Welcome to my GitHub!  
+I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounrney to becoming a Fullstack Security Engineer. I can Build. I can Hack. I can Secure. I have 5 years hands on experience in full stack development and currently taking an extensive course on Cybersecurity to acheive the goal of becoming a FullStack Security Engineer
 
 ---
 
-## 🛠️ My Core Expertise
+## 🛠️ Core Expertise
 
 ### **Backend Engineering (Python)**
 - **Django REST Framework** API development
-- Flask microservices
 - API integration with Python
 - Database design & management
 - Python automation solutions
@@ -19,7 +17,7 @@ I build **robust, scalable, and secure** solutions — from APIs to automation s
 
 ### **Cybersecurity**
 - Website vulnerability scanning (OWASP ZAP, Nikto, Nessus, etc.)
-- Basic web app penetration testing
+- Web app penetration testing
 - API security checks (authentication, rate limits, data exposure)
 - Secure code review
 - OSINT investigations & dark web monitoring
@@ -41,32 +39,19 @@ I build **robust, scalable, and secure** solutions — from APIs to automation s
 
 ---
 
-## 💡 My Approach
-
-I believe **security, maintainability, and scalability** are inseparable in modern development.  
-My workflow ensures:
-1. **Security-first coding** — to minimise vulnerabilities at the source.  
-2. **Sustainable design** — keeping codebases efficient, readable, and adaptable.  
-3. **Automation-driven solutions** — reducing repetitive work and improving efficiency.
+## 💡 My Other Interests
+- AI
+- Blockchain
 
 ---
 
-## 📈 What I Can Deliver
-- Secure backend APIs ready for production
-- Vulnerability-tested and hardened web applications
-- Automated scripts to save time and reduce manual work
-- Integrated data pipelines with clear visual insights
-- Real-time bot solutions for communication platforms
-- Frontend features that are accessible, fast, and future-proof
-
----
 
 ## 📫 Let’s Connect
 - **LinkedIn:** [https://www.linkedin.com/in/avtconscience/]
 - **Portfolio / Website:** [https://avtconscience.fwh.is/]
 - **Email:** [avtxconscience@gmail.com]
 
-💬 Open to collaborations, freelance opportunities, and impactful security or development projects.
+💬 Open to collaborations and job opportunities
 
 ---
 
