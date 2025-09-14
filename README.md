@@ -7,6 +7,16 @@ I am a Fullstack Python Developer (Web/Frontend | APIs | Custom Tools)  and a Cy
 
 ## 🛠️ Core Expertise
 
+### **GENERAL TECH STACK**
+- Python (75%)
+- Javascript (50%)
+- ReactJS (60%)
+- NextJS (60%)
+- DJANGO REST FRAMEWORK (80%)
+- FLASK (80%)
+- Problem Solving | Systems Thinking (90%)
+- Cybersecurity (30%)
+
 ### **Backend Engineering (Python)**
 - **Django REST Framework** API development
 - API integration with Python
