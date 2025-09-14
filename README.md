@@ -46,6 +46,9 @@ I am a Python Fullstack Web Developer and a Cyber Security Specialist on a jounr
 ## 💡 My Other Interests
 - AI
 - Blockchain
+- Finance
+- Business | Economics
+- Wellbeing | Better Society
 
 ---
 
