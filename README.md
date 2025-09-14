@@ -16,6 +16,7 @@ I am a Fullstack Python Developer (Web/Frontend | APIs | Custom Tools)  and a Cy
 - FLASK (80%)
 - Problem Solving | Systems Thinking (90%)
 - Cybersecurity (30%)
+- WORDPRESS (90%)
 
 ### **Backend Engineering (Python)**
 - **Django REST Framework** API development
