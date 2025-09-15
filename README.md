@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Conscience Ekhomwandolor
 
 ## Welcome to my GitHub!  
-I am a Fullstack Python Developer (Web/Frontend | APIs | Custom Tools)  and a Cyber Security Researcher. I can Build. I can Hack. I can Secure. Focusing on making custom tools/scripts/pipelines/automation solutions, lite fullstack web applications and backend APIS in DEVELOPMENT. In CYBERSECURITY, I am specializing in Bug Bounty, Penetration Testing, Security Tools Development & Digital Inteligent Investigation.
+I am a Fullstack Python Developer (Web/Frontend | APIs | Custom Tools)  and a Cyber Security Researcher. I can Build. I can Hack. I can Secure. Focusing on making custom tools/scripts/pipelines/automation solutions,lite apps/mvps and backend APIS in DEVELOPMENT. In CYBERSECURITY, I am specializing in Bug Bounty, Penetration Testing, Security Tools Development & Digital Inteligent Investigation.
 
 ---
 
