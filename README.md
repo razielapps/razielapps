@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Conscience Ekhomwandolor
 
 ## Welcome to my GitHub!  
-I am a cybersecurity professional, python backend developer with frontend knowledge and penetration testing enthusiast. I obtained certifications in Python programming, CCNA and CEH after hands-on training at Hands-on Information Institute of Technology Abuja Nigeria.  
+I am a cybersecurity professional, python backend developer with frontend knowledge and red team pentest enthusiast. I obtained certifications in Python programming, CCNA and CEH after hands-on training at Hands-on Information Institute of Technology Abuja Nigeria.  
 
 ---
 
