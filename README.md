@@ -14,7 +14,7 @@ I am a cybersecurity professional, python backend developer with frontend knowle
 - ReactJS
 - DJANGO REST FRAMEWORK
 - FLASK
-- Cybersecurity
+- Cybersecurity (red team pentest)
 - WORDPRESS
 
 
