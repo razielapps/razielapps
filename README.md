@@ -18,6 +18,12 @@ I am a fullstack security engineer and red team pentest enthusiast. I obtained c
 
 ---
 
+---
+## 📈 Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=razielapps&theme=github-dark&hide_border=true)](https://github.com/razielapps)
+---
+
 ## 🛠️ Core Expertise
 
 ### **GENERAL TECH STACK**
