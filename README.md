@@ -5,6 +5,18 @@
 I am a fullstack security engineer and red team pentest enthusiast. I obtained certifications in Python programming, CCNA and CEH after hands-on training at Hands-on Information Institute of Technology Abuja Nigeria, i also obtained full stack (Django+Reactjs) certificate from udemy, i like learning, solving problems and bringing my ideas 💡 to life.  
 
 ---
+## 🏆 GitHub Profile Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=razielapps&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razielapps&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🛠️ Core Expertise
 
