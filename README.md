@@ -1,8 +1,7 @@
 
-# 👋 Hi, I'm Cyborg0720
+I am Conscience, also known as CYBORG0720—a fullstack security engineer specializing in backend development, tooling, and penetration testing. I hold certifications in Python Programming, CCNA, and CEH from Hands-on Information Institute of Technology, Abuja, Nigeria, and a Fullstack (Django + ReactJS) certificate from Udemy.
 
-## Welcome to my GitHub!  
-I am a fullstack security engineer, specialised in backend development, tooling and penentration testing. I obtained certifications in Python programming, CCNA and CEH after hands-on training at Hands-on Information Institute of Technology Abuja Nigeria, i also obtained full stack (Django+Reactjs) certificate from udemy, i like learning, solving problems and bringing my ideas 💡 to life.  
+I am passionate about learning, problem-solving, and turning ideas 💡 into working systems. I build tools that save other developers time and continuously explore AI, human–machine systems, and emerging technologies to advance both my craft and the future of human–machine collaboration.
 
 ---
 ## 🏆 GitHub Profile Stats
